@@ -528,6 +528,10 @@ a:focus {
   float: right;
 }
 
+.skill-list ul li {
+  list-style: none;
+}
+
 .about .progress {
   height: 10px;
   border-radius: 10px;
